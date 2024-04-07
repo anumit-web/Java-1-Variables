@@ -27,11 +27,13 @@ public class JavaCode1 {
         char
         boolean
         */
+        
         String largest_lake_in_the_world = "Caspian Sea";
         int number_of_islands_in_the_world = 900000;
         float weight_of_orca = (float) 8800.00;
         char true_or_false = 'T';
         boolean will_apple_stock_price_go_up_in_2024 = true;
+
         System.out.println("Largest lake in the world = "+largest_lake_in_the_world);
         System.out.println("Number of islands in the world = " + number_of_islands_in_the_world);
         System.out.println("Weight of Orca = " + weight_of_orca);
