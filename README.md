@@ -14,6 +14,11 @@ git add --all
 
 git commit -m "Add files"
 
+git pull --rebase origin main
+
+git push -u origin main
+
+
 
 
 
